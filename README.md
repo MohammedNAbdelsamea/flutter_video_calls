@@ -4,7 +4,7 @@
 A full-featured Flutter group video call app using [Stream Video Flutter SDK](https://getstream.io/video/) and JWT authentication.
 
 ## Github repo:
-- 
+- https://github.com/MohammedNAbdelsamea/flutter_video_calls
 ## 📸 Screenshots
 ![img.png](img.png)
 ![img_1.png](img_1.png)
