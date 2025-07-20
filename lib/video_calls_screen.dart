@@ -12,7 +12,7 @@ class VideoCallScreen extends StatefulWidget {
 }
 
 class _VideoCallScreenState extends State<VideoCallScreen> {
-  // Replace with your actual GetStream.io API key
+  
   static const String apiKey = '6p5abjwse2jp';
   static const String roomName = 'Test Room'; // Predefined room as required
 
